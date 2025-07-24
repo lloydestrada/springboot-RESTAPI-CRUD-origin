@@ -1,4 +1,4 @@
-# Spring Boot REST CRUD
+# Spring Boot REST API CRUD origin
 
 This project is the origin built with **Spring Boot** that demonstrates how to create a simple **REST API** performing **CRUD (Create, Read, Update, Delete)** operations. It focuses on building REST endpoints using **RestController**, connecting to a **MySQL database** using **Spring Data JPA**, and managing entities using standard HTTP methods.
 
